@@ -4,9 +4,9 @@
 This project implements a CycleGAN model using PyTorch to translate images between two domains: Cubism artworks and nature photographs.
 
 # Results
-![Nautre to Cubism](output_images/epoch_96_X_to_Y.png)
+![Cubism to Nature](output_images/epoch_96_X_to_Y.png)
 
-![Cubism to Nature](output_images/epoch_96_Y_to_X.png)
+![Nature to Cubism](output_images/epoch_96_Y_to_X.png)
 
 
 ## Project Structure
